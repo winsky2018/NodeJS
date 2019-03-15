@@ -1,0 +1,50 @@
+{
+    "_id": "5aff8f37d97381062fb10892",
+    "user": "5afd38eeb886f50f4320e6c1",
+    "handle": "test",
+    "company": "Apple",
+    "website": "www.thenewstep.com",
+    "location": "NewYork",
+    "status": "fontend",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "Node.js"
+    ],
+    "bio": "good good study day day up",
+    "githubusername": "www.github.com/winsky2018",
+    "experience": [
+        {
+            "current": true,
+            "_id": "5aff9079d97381062fb10894",
+            "title": "n年前端开发经验",
+            "company": "某某某国内知名互联网公司",
+            "location": "南昌",
+            "from": "2018-7-4T18:14:00.000Z",
+            "to": "2019-2-1T18:14:00.000Z",
+            "description": "设定代码规范, 任务分配, 代码优化等工作"
+        }
+    ],
+    "education": [
+        {
+            "current": false,
+            "_id": "5aff9153d97381062fb10895",
+            "school": "某某某高校",
+            "degree": "本科生",
+            "fieldofstudy": "电子信息工程",
+            "from": "2014-9-1T18:14:00.000Z",
+            "to": "2018-6-31T18:14:00.000Z",
+            "description": "在校期间,表现优异."
+        }
+    ],
+    "social": {
+        "wechat": "777777777",
+        "QQ": "777777777",
+        "tengxunkt": "winsky",
+        "wangyikt": "winsky"
+    },
+    "date": "2018-05-19T02:43:03.029Z",
+    "__v": 2
+}
